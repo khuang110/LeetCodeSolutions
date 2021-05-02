@@ -1,4 +1,4 @@
-def isPalindrome(x: int) -> bool:
+def is_palindrome(x: int) -> bool:
     # Base case, negative not palindrome
     if x < 0:
         return False
